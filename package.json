@@ -4,9 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-  "dev": "webpack-dev-server --env.env=dev",
-  "prebuild": "rimraf dist",
-  "build": "cross-env NODE_ENV=production webpack -p --env.env=prod"
+    "dev": "webpack-dev-server --env.env=dev",
+    "prebuild": "rimraf dist",
+    "build": "cross-env NODE_ENV=production webpack -p --env.env=prod"
   },
   "dependencies": {
     "prop-types": "^15.6.2",

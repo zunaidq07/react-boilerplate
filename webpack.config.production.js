@@ -75,7 +75,6 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       template: 'public/index.html'
-      // favicon: 'public/favicon.ico'
     }),
     // Create the stylesheet under 'styles' directory
     new ExtractTextPlugin({

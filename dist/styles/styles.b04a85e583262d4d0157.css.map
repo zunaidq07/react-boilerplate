@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack:///./src/components/layout.css"],"names":[],"mappings":"AAAA,yBAAY,aAAa,wBAAwB,CAAC,uBAAI,0BAA0B,4BAA4B","file":"styles/styles.b04a85e583262d4d0157.css","sourcesContent":[".pull-right{display:flex;justify-content:flex-end}.h1{margin-top:10px!important;margin-bottom:20px!important}"],"sourceRoot":""}
